@@ -21,5 +21,5 @@ case'/':
 res=a/b;
 break;
 }
-printf("%f%c%f=%f",a,d,b,res);
+printf("result=%d,res);
 }
